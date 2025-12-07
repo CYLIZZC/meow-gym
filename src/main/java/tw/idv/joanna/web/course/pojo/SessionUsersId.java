@@ -1,4 +1,4 @@
-package tw.idv.joanna. web.course.pojo;
+package tw.idv.joanna.web.course.pojo;
 
 import java.io.Serializable;
 import java.util.Objects;

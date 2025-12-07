@@ -1,4 +1,4 @@
-package tw.idv.joanna. web.chat.service;
+package tw.idv.joanna.web.chat.service;
 
 import tw.idv.joanna.web.chat.pojo.Chats;
 

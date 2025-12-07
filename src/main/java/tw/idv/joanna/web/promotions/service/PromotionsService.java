@@ -1,4 +1,4 @@
-package tw.idv.joanna. web.promotions.service;
+package tw.idv.joanna.web.promotions.service;
 
 import java.io.IOException;
 import java.util.List;

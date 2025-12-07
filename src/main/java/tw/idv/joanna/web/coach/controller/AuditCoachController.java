@@ -1,4 +1,4 @@
-package tw.idv.joanna. web.coach.controller;
+package tw.idv.joanna.web.coach.controller;
 
 import java.util.HashMap;
 import java.util.Map;

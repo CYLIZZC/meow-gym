@@ -1,4 +1,4 @@
-package tw.idv.joanna. web.chat.controller;
+package tw.idv.joanna.web.chat.controller;
 
 import java.util.HashMap;
 import java.util.Map;

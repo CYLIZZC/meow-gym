@@ -1,4 +1,4 @@
-package tw.idv.joanna. web.course.pojo;
+package tw.idv.joanna.web.course.pojo;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;

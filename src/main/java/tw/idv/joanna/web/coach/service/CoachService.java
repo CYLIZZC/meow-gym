@@ -1,4 +1,4 @@
-package tw.idv.joanna. web.coach.service;
+package tw.idv.joanna.web.coach.service;
 
 import java.io.IOException;
 import java.text.ParseException;

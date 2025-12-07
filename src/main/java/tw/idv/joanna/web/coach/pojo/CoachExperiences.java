@@ -1,4 +1,4 @@
-package tw.idv.joanna. web.coach.pojo;
+package tw.idv.joanna.web.coach.pojo;
 
 import java.util.Date;
 

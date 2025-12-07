@@ -1,4 +1,4 @@
-package tw.idv.joanna. web.index.service.impl;
+package tw.idv.joanna.web.index.service.impl;
 
 import java.util.ArrayList;
 import java.util.Date;

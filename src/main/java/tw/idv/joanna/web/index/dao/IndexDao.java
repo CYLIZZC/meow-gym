@@ -1,4 +1,4 @@
-package tw.idv.joanna. web.index.dao;
+package tw.idv.joanna.web.index.dao;
 
 import java.util.List;
 

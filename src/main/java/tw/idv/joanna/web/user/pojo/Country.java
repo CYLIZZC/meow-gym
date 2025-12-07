@@ -1,4 +1,4 @@
-package tw.idv.joanna. web.user.pojo;
+package tw.idv.joanna.web.user.pojo;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;

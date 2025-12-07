@@ -1,4 +1,4 @@
-package tw.idv.joanna. web.user.pojo;
+package tw.idv.joanna.web.user.pojo;
 
 import java.sql.Date;
 import java.sql.Timestamp;

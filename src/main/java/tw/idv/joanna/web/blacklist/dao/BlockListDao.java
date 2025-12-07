@@ -1,4 +1,4 @@
-package tw.idv.joanna. web.blacklist.dao;
+package tw.idv.joanna.web.blacklist.dao;
 
 import java.util.List;
 

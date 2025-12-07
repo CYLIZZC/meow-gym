@@ -1,4 +1,4 @@
-package tw.idv.joanna. web.chat.dao;
+package tw.idv.joanna.web.chat.dao;
 
 import java.util.List;
 

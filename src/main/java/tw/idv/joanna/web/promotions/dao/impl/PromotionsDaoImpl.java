@@ -1,4 +1,4 @@
-package tw.idv.joanna. web.promotions.dao.impl;
+package tw.idv.joanna.web.promotions.dao.impl;
 
 import java.util.List;
 import jakarta.persistence.PersistenceContext;

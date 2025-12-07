@@ -1,4 +1,4 @@
-package tw.idv.joanna. web.index.controller;
+package tw.idv.joanna.web.index.controller;
 
 import java.util.List;
 

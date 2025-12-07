@@ -1,4 +1,4 @@
-package tw.idv.joanna. web.chat.dao.impl;
+package tw.idv.joanna.web.chat.dao.impl;
 
 import java.util.List;
 
@@ -54,7 +54,7 @@ public class ChatDaoImpl implements ChatDao {
 
 	@Override
 	public List<ChatDTO> selectCourseChatsWithUser(Integer courseId) {
-		String hql = "select new tw.idv.joanna.web.chat.pojo.ChatDTO(c.chatId, c.courseId, c.userId, u.name, c.content, c.createdAt, u.avatarUrl, u.role) from tw.idv.joanna.web.chat.pojo.Chats c join tw.idv.joanna. web.chat.pojo.User u on u.userId = c.userId where c.courseId = :courseId order by c.createdAt";
+		String hql = "select new tw.idv.joanna.web.chat.pojo.ChatDTO(c.chatId, c.courseId, c.userId, u.name, c.content, c.createdAt, u.avatarUrl, u.role) from tw.idv.joanna.web.chat.pojo.Chats c join tw.idv.joanna.web.user.pojo.User u on u.userId = c.userId where c.courseId = :courseId order by c.createdAt";
 		return session.createQuery(hql, ChatDTO.class).setParameter("courseId", courseId).getResultList();
 	}
 

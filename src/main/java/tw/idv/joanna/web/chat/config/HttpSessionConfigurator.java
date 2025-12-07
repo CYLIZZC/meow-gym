@@ -1,4 +1,4 @@
-package tw.idv.joanna. web.chat.config;
+package tw.idv.joanna.web.chat.config;
 
 
 import java.util.Map;

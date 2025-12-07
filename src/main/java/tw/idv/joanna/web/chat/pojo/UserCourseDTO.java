@@ -1,4 +1,4 @@
-package tw.idv.joanna. web.chat.pojo;
+package tw.idv.joanna.web.chat.pojo;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

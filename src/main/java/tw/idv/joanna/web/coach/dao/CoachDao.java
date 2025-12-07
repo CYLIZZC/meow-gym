@@ -1,4 +1,4 @@
-package tw.idv.joanna. web.coach.dao;
+package tw.idv.joanna.web.coach.dao;
 
 import java.util.List;
 

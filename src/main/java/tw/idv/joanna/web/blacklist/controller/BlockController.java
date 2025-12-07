@@ -1,4 +1,4 @@
-package tw.idv.joanna. web.blacklist.controller;
+package tw.idv.joanna.web.blacklist.controller;
 
 import java.util.HashMap;
 import java.util.List;

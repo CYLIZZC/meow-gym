@@ -1,4 +1,4 @@
-package tw.idv.joanna. web.chat.controller;
+package tw.idv.joanna.web.chat.controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;

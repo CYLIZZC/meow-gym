@@ -1,4 +1,4 @@
-package tw.idv.joanna. web.chat.service.impl;
+package tw.idv.joanna.web.chat.service.impl;
 
 
 import org.springframework.beans.factory.annotation.Autowired;

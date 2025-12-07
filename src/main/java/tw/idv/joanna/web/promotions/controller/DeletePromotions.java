@@ -1,4 +1,4 @@
-package tw.idv.joanna. web.promotions.controller;
+package tw.idv.joanna.web.promotions.controller;
 
 import java.util.HashMap;
 import java.util.Map;

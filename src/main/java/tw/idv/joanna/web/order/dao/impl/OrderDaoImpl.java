@@ -1,4 +1,4 @@
-package tw.idv.joanna. web.order.dao.impl;
+package tw.idv.joanna.web.order.dao.impl;
 
 import org.hibernate.Session;
 import org.hibernate.query.Query;

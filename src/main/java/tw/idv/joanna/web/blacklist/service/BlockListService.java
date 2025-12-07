@@ -1,4 +1,4 @@
-package tw.idv.joanna. web.blacklist.service;
+package tw.idv.joanna.web.blacklist.service;
 
 import java.util.List;
 

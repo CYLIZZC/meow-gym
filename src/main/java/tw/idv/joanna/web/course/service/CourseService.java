@@ -1,4 +1,4 @@
-package tw.idv.joanna. web.course.service;
+package tw.idv.joanna.web.course.service;
 
 import java.util.Date;
 import java.util.List;

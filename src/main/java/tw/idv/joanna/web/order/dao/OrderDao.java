@@ -1,4 +1,4 @@
-package tw.idv.joanna. web.order.dao;
+package tw.idv.joanna.web.order.dao;
 
 import java.util.List;
 

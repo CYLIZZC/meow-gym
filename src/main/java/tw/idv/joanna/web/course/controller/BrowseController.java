@@ -1,4 +1,4 @@
-package tw.idv.joanna. web.course.controller;
+package tw.idv.joanna.web.course.controller;
 
 import java.util.HashMap;
 import java.util.List;

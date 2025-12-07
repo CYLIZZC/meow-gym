@@ -1,4 +1,4 @@
-package tw.idv.joanna. web.chat.controller;
+package tw.idv.joanna.web.chat.controller;
 
 import java.io.IOException;
 import java.util.ArrayList;

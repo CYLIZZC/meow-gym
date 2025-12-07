@@ -1,4 +1,4 @@
-package tw.idv.joanna. web.course.controller;
+package tw.idv.joanna.web.course.controller;
 
 import java.io.IOException;
 import java.nio.file.Files;

@@ -1,4 +1,4 @@
-package tw.idv.joanna. web.promotions.dao;
+package tw.idv.joanna.web.promotions.dao;
 
 import java.util.List;
 

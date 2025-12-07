@@ -1,4 +1,4 @@
-package tw.idv.joanna. web.chat.interceptor;
+package tw.idv.joanna.web.chat.interceptor;
 
 import java.util.Map;
 

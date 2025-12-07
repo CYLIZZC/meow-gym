@@ -1,4 +1,4 @@
-package tw.idv.joanna. web.coach.controller;
+package tw.idv.joanna.web.coach.controller;
 
 import java.text.ParseException;
 import java.util.HashMap;

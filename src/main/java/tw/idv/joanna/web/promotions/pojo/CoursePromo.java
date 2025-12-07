@@ -1,4 +1,4 @@
-package tw.idv.joanna. web.promotions.pojo;
+package tw.idv.joanna.web.promotions.pojo;
 
 import java.sql.Date;
 
